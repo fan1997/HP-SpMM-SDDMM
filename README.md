@@ -27,7 +27,7 @@ Please make sure you are running on Ampere (A100, A800) or Hopper (H100, H800) G
 Please use NVCC >= 11.8.
 
 ```bash
-git clone 
+git clone git@github.com:fan1997/HP-SpMM-SDDMM.git
 mkdir build
 cd build
 cmake .. && make -j
